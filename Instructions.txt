@@ -1,0 +1,3 @@
+1. Database1 is the NinaPro file with 10 patients and myo sensor
+2. Converting_matlab_to_csv.m is matlab file that seperates each of the emg signal pertaining an action and puts them in the data1_mat.mat file as a 3d matrix.
+3. try.m is a random matlab file created to at times test code.
